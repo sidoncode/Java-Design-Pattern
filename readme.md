@@ -1,7 +1,11 @@
 # ReadMe
+## Refer below Cmds for Output:
+
+![outputpictureofFactorMethodPattern ](https://user-images.githubusercontent.com/40432616/180643463-b101bdb9-4541-4387-8603-36dd40b5d03d.jpg)
 
 
-## below, link are for the refs:
+## below, link are 
+for the refs:
 ### https://www.javatpoint.com/singleton-design-pattern-in-java
 
 
